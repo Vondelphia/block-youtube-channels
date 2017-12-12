@@ -2,8 +2,8 @@
 Just a personal collection of (trash) youtube channels that should be obliterated for hampering imagination.
 
 1. Install Browser Addon
-2. Import .JSON file
-3. Surf YouTube with filtered results
+2. Download and <a href="https://raw.githubusercontent.com/Vondelphia/block-youtube-channels/master/import.json">Import .JSON file</a> (right click save as...)
+3. <a href="https://www.youtube.com/feed/trending" target="_blank">Surf YouTube</a> with filtered results
 
 ## 1. Download Addon / Extension
 
